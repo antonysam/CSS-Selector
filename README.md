@@ -14,4 +14,4 @@ It will vary based on browsers
 
 _Syntax_
 
-![](https://github.com/antonysam/CSS-Selector/blob/master/CSS%20Template.PNG)
+![](https://github.com/antonysam/CSS-Selector/blob/master/CSS-Selector%20Template.PNG)
